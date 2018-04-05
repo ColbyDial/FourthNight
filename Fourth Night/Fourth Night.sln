@@ -1,12 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fourth Night", "Fourth Night.csproj", "{4E87D4FE-8887-9325-F5E4-6545D8BE9797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fourth Night.Plugins", "Fourth Night.Plugins.csproj", "{4A67F0A4-42A8-541B-7A63-B511E1E57A5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fourth Night.Editor.Plugins", "Fourth Night.Editor.Plugins.csproj", "{ACE9FA2D-D81E-0D99-8FF4-98A584506AE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E87D4FE-8887-9325-F5E4-6545D8BE9797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E87D4FE-8887-9325-F5E4-6545D8BE9797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E87D4FE-8887-9325-F5E4-6545D8BE9797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E87D4FE-8887-9325-F5E4-6545D8BE9797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A67F0A4-42A8-541B-7A63-B511E1E57A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A67F0A4-42A8-541B-7A63-B511E1E57A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A67F0A4-42A8-541B-7A63-B511E1E57A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A67F0A4-42A8-541B-7A63-B511E1E57A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE9FA2D-D81E-0D99-8FF4-98A584506AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE9FA2D-D81E-0D99-8FF4-98A584506AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE9FA2D-D81E-0D99-8FF4-98A584506AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE9FA2D-D81E-0D99-8FF4-98A584506AE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
